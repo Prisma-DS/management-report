@@ -22,8 +22,12 @@ The company is requesting a report detailing the profitability of its branches, 
 ### It accounts for 44.45% of total sales, and its sales remain consistent over the years.
 <img width="744" height="418" alt="image" src="https://github.com/user-attachments/assets/6c38a8ca-72d3-4c49-9256-9a0fab11a7b2" />
 
-### The Pereira branch generates very low profits (12.4%) and has failed to establish a strong market position over the last 10 years; conducting a market study in the area is recommended.
+### Pereira (12.4) and Cali (12.35) are branches that generate low profits; they have failed to establish a strong market position over the last 10 years, so a market study in the area is recommended.
+
+#### Pereira
 <img width="963" height="541" alt="image" src="https://github.com/user-attachments/assets/8cbf666c-af6b-41d6-aa57-b384de830a4c" />
+#### Cali
+<img width="957" height="538" alt="image" src="https://github.com/user-attachments/assets/0ac2f19c-7caf-4e83-8e6d-77e497a586a6" />
 
 ### Comparison of sales by product brand
 <img width="947" height="533" alt="image" src="https://github.com/user-attachments/assets/dc629fdd-1e76-4dba-b908-8538388ca9e2" />
