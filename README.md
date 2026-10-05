@@ -4,8 +4,6 @@ Based on sales data from a company with a presence in various cities and multipl
 ## Business Problem
 The company is requesting a report detailing the profitability of its branches, sales staff performance, and rankings of the brands and products it markets, in order to make decisions regarding the opening or closing of branches and partnerships with product brands, among other matters.
 
-## Preview
-
 ## 🔹 Data Preparation (ETL)
 - Data import from CSVs
 - Data cleaning
@@ -40,5 +38,8 @@ The company is requesting a report detailing the profitability of its branches, 
 
 <img width="855" height="415" alt="image" src="https://github.com/user-attachments/assets/d569eade-d02c-42fb-9337-6efeb3e9ef99" />
 
-## Tech Stack
-Python · Pandas · Matplotlib · Seaborn · DAX Studio · Power Query · Power BI
+## 🛠️ Tech Stack
+
+- **Lenguaje:** Python
+- **Análisis y visualización con Python:** Pandas, Matplotlib, Seaborn
+- **Business Intelligence:** Power BI, Power Query, DAX Studio
